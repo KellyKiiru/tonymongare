@@ -1,5 +1,5 @@
 # 💫About Me :
-Adaptable Statistician and Software developer with a hands on experience in Machine learning and analysis using Python and its ecosystem of tools and also Back-end Development using Springboot and Django. Familiar with technologies such as Automation, Test Driven Development, DevOps and CI/CD tools. Currently learning about AWS and doing a project in SpringBoot.
+Software developer with a hands on experience in Machine learning and analysis using Python and its ecosystem of tools and also Back-end Development using Springboot and Django. Familiar with technologies such as Automation, Test Driven Development, DevOps and CI/CD tools. Currently learning about AWS and doing a project in SpringBoot.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/isaactonyloi/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@datascienceafrica) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@IsaacTonyloi) 
